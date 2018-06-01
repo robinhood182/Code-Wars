@@ -1,6 +1,6 @@
 # Code Wars
 
-## Replace all dots
+## Kata-2
 
 The code provided is supposed replace all the dots . in the specified String str with dashes -
 
